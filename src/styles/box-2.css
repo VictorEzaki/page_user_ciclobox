@@ -139,6 +139,7 @@
 /* Container cards */
 
 .cards{
+    min-width: 248px;
     width: 95%;
     height: auto;
     padding-bottom: 1.5rem;
