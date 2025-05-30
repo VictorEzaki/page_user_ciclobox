@@ -139,7 +139,7 @@
 /* Container cards */
 
 .cards{
-    width: 250px;
+    width: 95%;
     height: auto;
     padding-bottom: 1.5rem;
     display: flex;
