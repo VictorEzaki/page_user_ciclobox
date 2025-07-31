@@ -206,32 +206,6 @@
     right: 101%;
 }
 
-.cards > .card-content{
-    width: 90%;
-    display: flex;
-    flex-direction: column;
-    font-size: 12px;
-    width: 80%;
-}
-
-.cards > .card-title{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 12px;
-    font-weight: 400;
-    width: 100%;
-    height: 3rem;
-    border-bottom: 1px solid var(--border-color);
-}
-.cards > span{
-    font-size: 12px;
-    font-weight: 400;
-}
-.card-title > .bold{
-    font-weight: bold;
-}
-
 
 /* Redimensionamento das imagens */
 
